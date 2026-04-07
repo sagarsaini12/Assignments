@@ -5,9 +5,7 @@ A fully responsive product landing page built using **Vanilla HTML, CSS, and Jav
 
 ---
 
-## 🚀 Live Demo
 
-*(Add your deployed link here if available)*
 
 ---
 
